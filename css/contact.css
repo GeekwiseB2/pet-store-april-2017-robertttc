@@ -1,0 +1,14 @@
+/*HEADER*/
+.logo {
+  width: 90px;
+}
+
+.satisfy-text {
+  font-family: 'Satisfy', cursive;
+  color: #ff827b;
+
+}
+
+thead {
+  font-weight: bold;
+}
