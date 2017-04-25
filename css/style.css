@@ -40,3 +40,38 @@ url('https://fonts.googleapis.com/css?family=Open+Sans:300,400');
 .thumbnail img {
   padding: 9px;
 }
+
+/*-----FOOTER SECTION ------*/
+footer {
+  height: 150px;
+  background-color: #231f20;
+  padding-top: 15px;
+}
+
+footer img {
+  width: 120px;
+}
+
+.section-border {
+  border-right: 1px solid #323232;
+}
+
+.medium-grey {
+  color: #aaaaab;
+}
+
+.social-media {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+
+}
+
+.icon1 {
+  color: #BFC0C1
+
+}
+
+#copyright {
+  text-align: center;
+}
